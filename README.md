@@ -33,7 +33,7 @@ There is no installation for this assigment. All is required is the web version 
 
 1. Compiled KaseiCoin
 
-![compiled token](/Images/compiled_kaseiCoin.png)
+![compiled token](/Images/compiled_kaseiCion.png)
 
 2. Compiled Kaseicoin Crowdsale
 

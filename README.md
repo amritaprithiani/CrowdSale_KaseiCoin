@@ -65,7 +65,7 @@ There is no installation for this assigment. All is required is the web version 
 
 ----
 
-## Contributer
+## Contributor
 
 Amrita Prithiani
 
